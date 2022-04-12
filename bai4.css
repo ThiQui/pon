@@ -1,0 +1,61 @@
+.skynet{
+    border: 1px solid black;
+    width: 500px;
+    height: auto;
+    padding-left: 40px;
+    border-radius: 10px;
+    background-color: rgb(228, 227, 227);
+    margin-left: 30%;
+}
+
+.bt1{
+    width: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.bdsm{
+    border: 1px solid #000000;
+    background-color: rgb(228, 227, 227);
+    width: 450px;
+    height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.gc{
+    width: 450px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+.dk{
+    margin-top: 20px;
+    margin-left: 180px;
+    width: 90px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+h3{
+    margin-left: 25%;
+}
+
+.bt1:hover{
+    background-color: rgb(197, 255, 110);
+}
+
+.gc:hover{
+    background-color: rgb(255, 255, 143);
+}
+
+.dk:hover{
+    background-color: orangered;
+}
+
+body{
+    background-color: rgb(40, 82, 131);
+}
